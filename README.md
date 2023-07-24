@@ -3,7 +3,7 @@
 >
 
 
-<!--
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -16,13 +16,16 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
-<!--
+<
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Notas para una sonda de alta altitud para el proyecto de ciencia ciudadana Servet que permita hacer un sondeo de la radiación cosmica presente a las diferentes altitudes. De momento no es ninguna propuesta solo es algo que estoy estudiando.
+- Papers interesantes:
+  - [New pixellated avalanche photodiodes with remarkable properties for cosmic ray experiments](https://cds.cern.ch/record/966006/files/19327-usa-swain-J-abs2-he24-poster.pdf)
+  - [SPACEDOS: AN OPEN-SOURCE PIN DIODE DOSEMETER FOR APPLICATIONS IN SPACE](https://www.researchgate.net/publication/362868627_SPACEDOS_AN_OPEN-SOURCE_PIN_DIODE_DOSEMETER_FOR_APPLICATIONS_IN_SPACE)
+  - [AIRDOS — open-source PIN diode airborne dosimeter](https://www.researchgate.net/publication/350395558_AIRDOS_-_open-source_PIN_diode_airborne_dosimeter)
+  - [Demonstration of the Capability of 1U CubeSat for Measurement of the Energy Spectrum on LEO](https://www.researchgate.net/publication/364591574_Demonstration_of_the_Capability_of_1U_CubeSat_for_Measurement_of_the_Energy_Spectrum_on_LEO)
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 <!--
