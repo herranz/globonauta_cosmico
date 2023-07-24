@@ -1,5 +1,5 @@
 # globonauta_cosmico
-> Ideas para el proyecto de ciencia ciudadana Servet
+> Ideas para el proyecto de ciencia ciudadana [Servet](https://servet.ibercivis.es/)
 >
 
 
@@ -16,7 +16,6 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
-<
 
 ## General Information
 - Notas para una sonda de alta altitud para el proyecto de ciencia ciudadana Servet que permita hacer un sondeo de la radiación cosmica presente a las diferentes altitudes. De momento no es ninguna propuesta solo es algo que estoy estudiando.
