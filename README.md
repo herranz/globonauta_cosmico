@@ -24,6 +24,7 @@
   - [SPACEDOS: AN OPEN-SOURCE PIN DIODE DOSEMETER FOR APPLICATIONS IN SPACE](https://www.researchgate.net/publication/362868627_SPACEDOS_AN_OPEN-SOURCE_PIN_DIODE_DOSEMETER_FOR_APPLICATIONS_IN_SPACE)
   - [AIRDOS — open-source PIN diode airborne dosimeter](https://www.researchgate.net/publication/350395558_AIRDOS_-_open-source_PIN_diode_airborne_dosimeter)
   - [Demonstration of the Capability of 1U CubeSat for Measurement of the Energy Spectrum on LEO](https://www.researchgate.net/publication/364591574_Demonstration_of_the_Capability_of_1U_CubeSat_for_Measurement_of_the_Energy_Spectrum_on_LEO)
+  - [μCosmics: A Low-Cost Educational Cosmic Ray Telescope](https://www.mdpi.com/2218-1997/5/1/23/htm)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
